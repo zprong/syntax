@@ -1,5 +1,17 @@
 # @cambly/syntax-icons
 
+## 4.3.1
+
+### Patch Changes
+
+- 5f9406f: Icons: Inherit color as default
+
+## 4.3.0
+
+### Minor Changes
+
+- a7d094f: Bump version to update Icon color's expected props
+
 ## 4.2.0
 
 ### Minor Changes
